@@ -1,7 +1,7 @@
 # MediChain — Dossier Médical Décentralisé
 
 > DApp Ethereum — le patient contrôle ses données de santé.
-> Groupe ICE4 · Mme Nourhene Ellouze · 2025/2026
+
 
 ---
 
